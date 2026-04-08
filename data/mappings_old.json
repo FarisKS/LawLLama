@@ -1,0 +1,1157 @@
+[
+  {
+    "ipc_section": "53",
+    "ipc_title": "Punishments",
+    "bns_section": "104",
+    "bns_title": "Punishment for Culpable Homicide",
+    "category": "PN"
+  },
+  {
+    "ipc_section": "54",
+    "ipc_title": "Commutation of sentence of death",
+    "bns_section": "318",
+    "bns_title": "Punishment for Criminal Breach of Trust",
+    "category": "PN"
+  },
+  {
+    "ipc_section": "55",
+    "ipc_title": "Commutation of sentence of imprisonment for life",
+    "bns_section": "104",
+    "bns_title": "Punishment for Culpable Homicide",
+    "category": "PN"
+  },
+  {
+    "ipc_section": "57",
+    "ipc_title": "Fractions of terms of punishment",
+    "bns_section": "104",
+    "bns_title": "Punishment for Culpable Homicide",
+    "category": "PN"
+  },
+  {
+    "ipc_section": "63",
+    "ipc_title": "Fine",
+    "bns_section": "104",
+    "bns_title": "Punishment for Culpable Homicide",
+    "category": "PN"
+  },
+  {
+    "ipc_section": "64",
+    "ipc_title": "Sentence of imprisonment for non-payment of fine",
+    "bns_section": "104",
+    "bns_title": "Punishment for Culpable Homicide",
+    "category": "PN"
+  },
+  {
+    "ipc_section": "177",
+    "ipc_title": "Furnishing false information",
+    "bns_section": "319",
+    "bns_title": "Cheating",
+    "category": "FIN"
+  },
+  {
+    "ipc_section": "182",
+    "ipc_title": "False information, with intent to cause public servant to use his lawful power to the injury of another person",
+    "bns_section": "319",
+    "bns_title": "Cheating",
+    "category": "FIN"
+  },
+  {
+    "ipc_section": "193",
+    "ipc_title": "Punishment for false evidence",
+    "bns_section": "319",
+    "bns_title": "Cheating",
+    "category": "FIN"
+  },
+  {
+    "ipc_section": "194",
+    "ipc_title": "Giving or fabricating false evidence with intent to procure conviction of capital offence",
+    "bns_section": "319",
+    "bns_title": "Cheating",
+    "category": "FIN"
+  },
+  {
+    "ipc_section": "195",
+    "ipc_title": "Giving or fabricating false evidence with intent to procure conviction of offence punishable with imprisonment for life or imprisonment",
+    "bns_section": "319",
+    "bns_title": "Cheating",
+    "category": "FIN"
+  },
+  {
+    "ipc_section": "201",
+    "ipc_title": "Causing disappearance of evidence of offence, or giving false information to screen offender",
+    "bns_section": "319",
+    "bns_title": "Cheating",
+    "category": "FIN"
+  },
+  {
+    "ipc_section": "202",
+    "ipc_title": "Intentional omission to give information of offence by person bound to inform",
+    "bns_section": "319",
+    "bns_title": "Cheating",
+    "category": "FIN"
+  },
+  {
+    "ipc_section": "203",
+    "ipc_title": "Giving false information respecting an offence committed",
+    "bns_section": "319",
+    "bns_title": "Cheating",
+    "category": "FIN"
+  },
+  {
+    "ipc_section": "204",
+    "ipc_title": "Destruction of document to prevent its production as evidence",
+    "bns_section": "319",
+    "bns_title": "Cheating",
+    "category": "FIN"
+  },
+  {
+    "ipc_section": "211",
+    "ipc_title": "False charge of offence made with intent to injure",
+    "bns_section": "319",
+    "bns_title": "Cheating",
+    "category": "FIN"
+  },
+  {
+    "ipc_section": "212",
+    "ipc_title": "Harbouring offender",
+    "bns_section": "319",
+    "bns_title": "Cheating",
+    "category": "FIN"
+  },
+  {
+    "ipc_section": "216",
+    "ipc_title": "Harbouring offender who has escaped from custody or whose apprehension has been ordered",
+    "bns_section": "319",
+    "bns_title": "Cheating",
+    "category": "FIN"
+  },
+  {
+    "ipc_section": "231",
+    "ipc_title": "Counterfeiting coin",
+    "bns_section": "319",
+    "bns_title": "Cheating",
+    "category": "FIN"
+  },
+  {
+    "ipc_section": "232",
+    "ipc_title": "Counterfeiting Indian coin",
+    "bns_section": "319",
+    "bns_title": "Cheating",
+    "category": "FIN"
+  },
+  {
+    "ipc_section": "255",
+    "ipc_title": "Counterfeiting Government stamp",
+    "bns_section": "319",
+    "bns_title": "Cheating",
+    "category": "FIN"
+  },
+  {
+    "ipc_section": "264",
+    "ipc_title": "Fraudulent use of false instrument for weighing",
+    "bns_section": "319",
+    "bns_title": "Cheating",
+    "category": "FIN"
+  },
+  {
+    "ipc_section": "265",
+    "ipc_title": "Fraudulent use of false weight or measure",
+    "bns_section": "319",
+    "bns_title": "Cheating",
+    "category": "FIN"
+  },
+  {
+    "ipc_section": "299",
+    "ipc_title": "Culpable homicide",
+    "bns_section": "100",
+    "bns_title": "Culpable Homicide",
+    "category": "HOM"
+  },
+  {
+    "ipc_section": "300",
+    "ipc_title": "Murder",
+    "bns_section": "100",
+    "bns_title": "Culpable Homicide",
+    "category": "HOM"
+  },
+  {
+    "ipc_section": "302",
+    "ipc_title": "Punishment for murder",
+    "bns_section": "100",
+    "bns_title": "Culpable Homicide",
+    "category": "HOM"
+  },
+  {
+    "ipc_section": "304",
+    "ipc_title": "Punishment for culpable homicide not amounting to murder",
+    "bns_section": "100",
+    "bns_title": "Culpable Homicide",
+    "category": "HOM"
+  },
+  {
+    "ipc_section": "304A",
+    "ipc_title": "Causing death by negligence",
+    "bns_section": "105",
+    "bns_title": "Death by Negligence",
+    "category": "HOM"
+  },
+  {
+    "ipc_section": "304B",
+    "ipc_title": "Dowry death",
+    "bns_section": "100",
+    "bns_title": "Culpable Homicide",
+    "category": "HOM"
+  },
+  {
+    "ipc_section": "305",
+    "ipc_title": "Abetment of suicide of child or insane person",
+    "bns_section": "100",
+    "bns_title": "Culpable Homicide",
+    "category": "HOM"
+  },
+  {
+    "ipc_section": "306",
+    "ipc_title": "Abetment of suicide",
+    "bns_section": "100",
+    "bns_title": "Culpable Homicide",
+    "category": "HOM"
+  },
+  {
+    "ipc_section": "307",
+    "ipc_title": "Attempt to murder",
+    "bns_section": "100",
+    "bns_title": "Culpable Homicide",
+    "category": "HOM"
+  },
+  {
+    "ipc_section": "308",
+    "ipc_title": "Attempt to commit culpable homicide",
+    "bns_section": "100",
+    "bns_title": "Culpable Homicide",
+    "category": "HOM"
+  },
+  {
+    "ipc_section": "309",
+    "ipc_title": "Attempt to commit suicide",
+    "bns_section": "100",
+    "bns_title": "Culpable Homicide",
+    "category": "HOM"
+  },
+  {
+    "ipc_section": "311",
+    "ipc_title": "Thuggee",
+    "bns_section": "100",
+    "bns_title": "Culpable Homicide",
+    "category": "HOM"
+  },
+  {
+    "ipc_section": "319",
+    "ipc_title": "Hurt",
+    "bns_section": "115",
+    "bns_title": "Voluntarily Causing Hurt",
+    "category": "VIO"
+  },
+  {
+    "ipc_section": "320",
+    "ipc_title": "Grievous hurt",
+    "bns_section": "106",
+    "bns_title": "Abetment of Suicide",
+    "category": "VIO"
+  },
+  {
+    "ipc_section": "321",
+    "ipc_title": "Voluntarily causing hurt",
+    "bns_section": "115",
+    "bns_title": "Voluntarily Causing Hurt",
+    "category": "VIO"
+  },
+  {
+    "ipc_section": "322",
+    "ipc_title": "Voluntarily causing grievous hurt",
+    "bns_section": "115",
+    "bns_title": "Voluntarily Causing Hurt",
+    "category": "VIO"
+  },
+  {
+    "ipc_section": "323",
+    "ipc_title": "Punishment for voluntarily causing hurt",
+    "bns_section": "115",
+    "bns_title": "Voluntarily Causing Hurt",
+    "category": "VIO"
+  },
+  {
+    "ipc_section": "324",
+    "ipc_title": "Voluntarily causing hurt by dangerous weapons or means",
+    "bns_section": "118",
+    "bns_title": "Grievous Hurt by Dangerous Weapons",
+    "category": "VIO"
+  },
+  {
+    "ipc_section": "325",
+    "ipc_title": "Punishment for voluntarily causing grievous hurt",
+    "bns_section": "115",
+    "bns_title": "Voluntarily Causing Hurt",
+    "category": "VIO"
+  },
+  {
+    "ipc_section": "326",
+    "ipc_title": "Voluntarily causing grievous hurt by dangerous weapons or means",
+    "bns_section": "118",
+    "bns_title": "Grievous Hurt by Dangerous Weapons",
+    "category": "VIO"
+  },
+  {
+    "ipc_section": "326A",
+    "ipc_title": "Voluntarily causing grievous hurt by use of acid, etc.",
+    "bns_section": "115",
+    "bns_title": "Voluntarily Causing Hurt",
+    "category": "VIO"
+  },
+  {
+    "ipc_section": "326B",
+    "ipc_title": "Voluntarily throwing or attempting to throw acid",
+    "bns_section": "106",
+    "bns_title": "Abetment of Suicide",
+    "category": "VIO"
+  },
+  {
+    "ipc_section": "327",
+    "ipc_title": "Voluntarily causing hurt to extort property, or to constrain to an illegal act",
+    "bns_section": "106",
+    "bns_title": "Abetment of Suicide",
+    "category": "VIO"
+  },
+  {
+    "ipc_section": "329",
+    "ipc_title": "Voluntarily causing grievous hurt to extort property, or to constrain to an illegal act",
+    "bns_section": "106",
+    "bns_title": "Abetment of Suicide",
+    "category": "VIO"
+  },
+  {
+    "ipc_section": "332",
+    "ipc_title": "Voluntarily causing hurt to deter public servant from his duty",
+    "bns_section": "106",
+    "bns_title": "Abetment of Suicide",
+    "category": "VIO"
+  },
+  {
+    "ipc_section": "333",
+    "ipc_title": "Voluntarily causing grievous hurt to deter public servant from his duty",
+    "bns_section": "106",
+    "bns_title": "Abetment of Suicide",
+    "category": "VIO"
+  },
+  {
+    "ipc_section": "336",
+    "ipc_title": "Act endangering life or personal safety of others",
+    "bns_section": "106",
+    "bns_title": "Abetment of Suicide",
+    "category": "VIO"
+  },
+  {
+    "ipc_section": "337",
+    "ipc_title": "Causing hurt by act endangering life or personal safety of others",
+    "bns_section": "106",
+    "bns_title": "Abetment of Suicide",
+    "category": "VIO"
+  },
+  {
+    "ipc_section": "338",
+    "ipc_title": "Causing grievous hurt by act endangering life or personal safety of others",
+    "bns_section": "106",
+    "bns_title": "Abetment of Suicide",
+    "category": "VIO"
+  },
+  {
+    "ipc_section": "339",
+    "ipc_title": "Wrongful restraint",
+    "bns_section": "106",
+    "bns_title": "Abetment of Suicide",
+    "category": "VIO"
+  },
+  {
+    "ipc_section": "340",
+    "ipc_title": "Wrongful confinement",
+    "bns_section": "106",
+    "bns_title": "Abetment of Suicide",
+    "category": "VIO"
+  },
+  {
+    "ipc_section": "341",
+    "ipc_title": "Punishment for wrongful restraint",
+    "bns_section": "106",
+    "bns_title": "Abetment of Suicide",
+    "category": "VIO"
+  },
+  {
+    "ipc_section": "342",
+    "ipc_title": "Punishment for wrongful confinement",
+    "bns_section": "106",
+    "bns_title": "Abetment of Suicide",
+    "category": "VIO"
+  },
+  {
+    "ipc_section": "343",
+    "ipc_title": "Wrongful confinement for three or more days",
+    "bns_section": "106",
+    "bns_title": "Abetment of Suicide",
+    "category": "VIO"
+  },
+  {
+    "ipc_section": "344",
+    "ipc_title": "Wrongful confinement for ten or more days",
+    "bns_section": "106",
+    "bns_title": "Abetment of Suicide",
+    "category": "VIO"
+  },
+  {
+    "ipc_section": "346",
+    "ipc_title": "Wrongful confinement in secret",
+    "bns_section": "106",
+    "bns_title": "Abetment of Suicide",
+    "category": "VIO"
+  },
+  {
+    "ipc_section": "347",
+    "ipc_title": "Wrongful confinement to extort property, or constrain to illegal act",
+    "bns_section": "106",
+    "bns_title": "Abetment of Suicide",
+    "category": "VIO"
+  },
+  {
+    "ipc_section": "349",
+    "ipc_title": "Force",
+    "bns_section": "106",
+    "bns_title": "Abetment of Suicide",
+    "category": "VIO"
+  },
+  {
+    "ipc_section": "350",
+    "ipc_title": "Criminal force",
+    "bns_section": "106",
+    "bns_title": "Abetment of Suicide",
+    "category": "VIO"
+  },
+  {
+    "ipc_section": "351",
+    "ipc_title": "Assault",
+    "bns_section": "106",
+    "bns_title": "Abetment of Suicide",
+    "category": "VIO"
+  },
+  {
+    "ipc_section": "352",
+    "ipc_title": "Punishment for assault or criminal force otherwise than on grave provocation",
+    "bns_section": "106",
+    "bns_title": "Abetment of Suicide",
+    "category": "VIO"
+  },
+  {
+    "ipc_section": "354",
+    "ipc_title": "Assault or criminal force to woman with intent to outrage her modesty",
+    "bns_section": "106",
+    "bns_title": "Abetment of Suicide",
+    "category": "VIO"
+  },
+  {
+    "ipc_section": "354B",
+    "ipc_title": "Assault or use of criminal force to woman with intent to disrobe",
+    "bns_section": "63",
+    "bns_title": "Rape",
+    "category": "SEX"
+  },
+  {
+    "ipc_section": "354C",
+    "ipc_title": "Voyeurism",
+    "bns_section": "63",
+    "bns_title": "Rape",
+    "category": "SEX"
+  },
+  {
+    "ipc_section": "355",
+    "ipc_title": "Assault or criminal force with intent to dishonour person, otherwise than on grave provocation",
+    "bns_section": "106",
+    "bns_title": "Abetment of Suicide",
+    "category": "VIO"
+  },
+  {
+    "ipc_section": "356",
+    "ipc_title": "Assault or criminal force in attempt to commit theft of property carried by a person",
+    "bns_section": "305",
+    "bns_title": "Theft in Dwelling House",
+    "category": "PRO"
+  },
+  {
+    "ipc_section": "357",
+    "ipc_title": "Assault or criminal force in attempting wrongfully to confine a person",
+    "bns_section": "106",
+    "bns_title": "Abetment of Suicide",
+    "category": "VIO"
+  },
+  {
+    "ipc_section": "360",
+    "ipc_title": "Kidnapping from India",
+    "bns_section": "106",
+    "bns_title": "Abetment of Suicide",
+    "category": "VIO"
+  },
+  {
+    "ipc_section": "361",
+    "ipc_title": "Kidnapping from lawful guardianship",
+    "bns_section": "106",
+    "bns_title": "Abetment of Suicide",
+    "category": "VIO"
+  },
+  {
+    "ipc_section": "362",
+    "ipc_title": "Abduction",
+    "bns_section": "106",
+    "bns_title": "Abetment of Suicide",
+    "category": "VIO"
+  },
+  {
+    "ipc_section": "363",
+    "ipc_title": "Punishment for kidnapping",
+    "bns_section": "106",
+    "bns_title": "Abetment of Suicide",
+    "category": "VIO"
+  },
+  {
+    "ipc_section": "364",
+    "ipc_title": "Kidnapping or abducting in order to murder",
+    "bns_section": "100",
+    "bns_title": "Culpable Homicide",
+    "category": "HOM"
+  },
+  {
+    "ipc_section": "364A",
+    "ipc_title": "Kidnapping for ransom, etc.",
+    "bns_section": "106",
+    "bns_title": "Abetment of Suicide",
+    "category": "VIO"
+  },
+  {
+    "ipc_section": "365",
+    "ipc_title": "Kidnapping or abducting with intent secretly and wrongfully to confine person",
+    "bns_section": "106",
+    "bns_title": "Abetment of Suicide",
+    "category": "VIO"
+  },
+  {
+    "ipc_section": "366",
+    "ipc_title": "Kidnapping, abducting or inducing woman to compel her marriage, etc.",
+    "bns_section": "81",
+    "bns_title": "Kidnapping Woman for Marriage",
+    "category": "WOM"
+  },
+  {
+    "ipc_section": "366A",
+    "ipc_title": "Procuration of minor girl",
+    "bns_section": "63",
+    "bns_title": "Rape",
+    "category": "SEX"
+  },
+  {
+    "ipc_section": "366B",
+    "ipc_title": "Importation of girl from foreign country",
+    "bns_section": "63",
+    "bns_title": "Rape",
+    "category": "SEX"
+  },
+  {
+    "ipc_section": "370",
+    "ipc_title": "Trafficking of person",
+    "bns_section": "106",
+    "bns_title": "Abetment of Suicide",
+    "category": "VIO"
+  },
+  {
+    "ipc_section": "370A",
+    "ipc_title": "Exploitation of a trafficked person",
+    "bns_section": "106",
+    "bns_title": "Abetment of Suicide",
+    "category": "VIO"
+  },
+  {
+    "ipc_section": "371",
+    "ipc_title": "Habitual dealing in slaves",
+    "bns_section": "106",
+    "bns_title": "Abetment of Suicide",
+    "category": "VIO"
+  },
+  {
+    "ipc_section": "374",
+    "ipc_title": "Unlawful compulsory labour",
+    "bns_section": "106",
+    "bns_title": "Abetment of Suicide",
+    "category": "VIO"
+  },
+  {
+    "ipc_section": "375",
+    "ipc_title": "Rape",
+    "bns_section": "63",
+    "bns_title": "Rape",
+    "category": "SEX"
+  },
+  {
+    "ipc_section": "376",
+    "ipc_title": "Punishment for rape",
+    "bns_section": "63",
+    "bns_title": "Rape",
+    "category": "SEX"
+  },
+  {
+    "ipc_section": "376A",
+    "ipc_title": "Punishment for causing death or resulting in persistent vegetative state of victim",
+    "bns_section": "63",
+    "bns_title": "Rape",
+    "category": "SEX"
+  },
+  {
+    "ipc_section": "376AB",
+    "ipc_title": "Punishment for rape on woman under twelve years of age",
+    "bns_section": "63",
+    "bns_title": "Rape",
+    "category": "SEX"
+  },
+  {
+    "ipc_section": "376B",
+    "ipc_title": "Sexual intercourse by husband upon his wife during separation",
+    "bns_section": "63",
+    "bns_title": "Rape",
+    "category": "SEX"
+  },
+  {
+    "ipc_section": "376C",
+    "ipc_title": "Sexual intercourse by person in authority",
+    "bns_section": "63",
+    "bns_title": "Rape",
+    "category": "SEX"
+  },
+  {
+    "ipc_section": "376D",
+    "ipc_title": "Gang rape",
+    "bns_section": "63",
+    "bns_title": "Rape",
+    "category": "SEX"
+  },
+  {
+    "ipc_section": "376DA",
+    "ipc_title": "Punishment for gang rape on woman under sixteen years of age",
+    "bns_section": "63",
+    "bns_title": "Rape",
+    "category": "SEX"
+  },
+  {
+    "ipc_section": "376DB",
+    "ipc_title": "Punishment for gang rape on woman under twelve years of age",
+    "bns_section": "63",
+    "bns_title": "Rape",
+    "category": "SEX"
+  },
+  {
+    "ipc_section": "377",
+    "ipc_title": "Unnatural offences",
+    "bns_section": "63",
+    "bns_title": "Rape",
+    "category": "SEX"
+  },
+  {
+    "ipc_section": "378",
+    "ipc_title": "Theft",
+    "bns_section": "303",
+    "bns_title": "Theft",
+    "category": "PRO"
+  },
+  {
+    "ipc_section": "379",
+    "ipc_title": "Punishment for theft",
+    "bns_section": "305",
+    "bns_title": "Theft in Dwelling House",
+    "category": "PRO"
+  },
+  {
+    "ipc_section": "380",
+    "ipc_title": "Theft in dwelling house, etc.",
+    "bns_section": "305",
+    "bns_title": "Theft in Dwelling House",
+    "category": "PRO"
+  },
+  {
+    "ipc_section": "381",
+    "ipc_title": "Theft by clerk or servant of property in possession of master",
+    "bns_section": "306",
+    "bns_title": "Theft by Servant",
+    "category": "PRO"
+  },
+  {
+    "ipc_section": "382",
+    "ipc_title": "Theft after preparation made for causing death, hurt or restraint in order to the committing of the theft",
+    "bns_section": "305",
+    "bns_title": "Theft in Dwelling House",
+    "category": "PRO"
+  },
+  {
+    "ipc_section": "383",
+    "ipc_title": "Extortion",
+    "bns_section": "303",
+    "bns_title": "Theft",
+    "category": "PRO"
+  },
+  {
+    "ipc_section": "385",
+    "ipc_title": "Putting person in fear of injury in order to commit extortion",
+    "bns_section": "305",
+    "bns_title": "Theft in Dwelling House",
+    "category": "PRO"
+  },
+  {
+    "ipc_section": "386",
+    "ipc_title": "Extortion by putting a person in fear of death or grievous hurt",
+    "bns_section": "305",
+    "bns_title": "Theft in Dwelling House",
+    "category": "PRO"
+  },
+  {
+    "ipc_section": "387",
+    "ipc_title": "Putting person in fear of death or of grievous hurt, in order to commit extortion",
+    "bns_section": "305",
+    "bns_title": "Theft in Dwelling House",
+    "category": "PRO"
+  },
+  {
+    "ipc_section": "388",
+    "ipc_title": "Extortion by threat of accusation of an offence punishable with death or imprisonment for life, etc.",
+    "bns_section": "310",
+    "bns_title": "Dacoity",
+    "category": "PRO"
+  },
+  {
+    "ipc_section": "390",
+    "ipc_title": "Robbery",
+    "bns_section": "306",
+    "bns_title": "Theft by Servant",
+    "category": "PRO"
+  },
+  {
+    "ipc_section": "392",
+    "ipc_title": "Punishment for robbery",
+    "bns_section": "310",
+    "bns_title": "Dacoity",
+    "category": "PRO"
+  },
+  {
+    "ipc_section": "394",
+    "ipc_title": "Voluntarily causing hurt in committing robbery",
+    "bns_section": "305",
+    "bns_title": "Theft in Dwelling House",
+    "category": "PRO"
+  },
+  {
+    "ipc_section": "395",
+    "ipc_title": "Dacoity",
+    "bns_section": "310",
+    "bns_title": "Dacoity",
+    "category": "PRO"
+  },
+  {
+    "ipc_section": "396",
+    "ipc_title": "Dacoity with murder",
+    "bns_section": "310",
+    "bns_title": "Dacoity",
+    "category": "PRO"
+  },
+  {
+    "ipc_section": "397",
+    "ipc_title": "Robbery, or dacoity, with attempt to cause death or grievous hurt",
+    "bns_section": "307",
+    "bns_title": "Robbery",
+    "category": "PRO"
+  },
+  {
+    "ipc_section": "402",
+    "ipc_title": "Assembling for purpose of committing dacoity",
+    "bns_section": "310",
+    "bns_title": "Dacoity",
+    "category": "PRO"
+  },
+  {
+    "ipc_section": "403",
+    "ipc_title": "Dishonest misappropriation of property",
+    "bns_section": "303",
+    "bns_title": "Theft",
+    "category": "PRO"
+  },
+  {
+    "ipc_section": "405",
+    "ipc_title": "Criminal breach of trust",
+    "bns_section": "303",
+    "bns_title": "Theft",
+    "category": "PRO"
+  },
+  {
+    "ipc_section": "407",
+    "ipc_title": "Criminal breach of trust by carrier, etc.",
+    "bns_section": "305",
+    "bns_title": "Theft in Dwelling House",
+    "category": "PRO"
+  },
+  {
+    "ipc_section": "408",
+    "ipc_title": "Criminal breach of trust by clerk or servant",
+    "bns_section": "305",
+    "bns_title": "Theft in Dwelling House",
+    "category": "PRO"
+  },
+  {
+    "ipc_section": "409",
+    "ipc_title": "Criminal breach of trust by public servant, or by banker, merchant or agent",
+    "bns_section": "306",
+    "bns_title": "Theft by Servant",
+    "category": "PRO"
+  },
+  {
+    "ipc_section": "410",
+    "ipc_title": "Stolen property",
+    "bns_section": "303",
+    "bns_title": "Theft",
+    "category": "PRO"
+  },
+  {
+    "ipc_section": "411",
+    "ipc_title": "Dishonestly receiving stolen property",
+    "bns_section": "303",
+    "bns_title": "Theft",
+    "category": "PRO"
+  },
+  {
+    "ipc_section": "412",
+    "ipc_title": "Dishonestly receiving property stolen in the commission of a dacoity",
+    "bns_section": "306",
+    "bns_title": "Theft by Servant",
+    "category": "PRO"
+  },
+  {
+    "ipc_section": "413",
+    "ipc_title": "Habitually dealing in stolen property",
+    "bns_section": "305",
+    "bns_title": "Theft in Dwelling House",
+    "category": "PRO"
+  },
+  {
+    "ipc_section": "414",
+    "ipc_title": "Assisting in concealment of stolen property",
+    "bns_section": "305",
+    "bns_title": "Theft in Dwelling House",
+    "category": "PRO"
+  },
+  {
+    "ipc_section": "415",
+    "ipc_title": "Cheating",
+    "bns_section": "319",
+    "bns_title": "Cheating",
+    "category": "FIN"
+  },
+  {
+    "ipc_section": "417",
+    "ipc_title": "Punishment for cheating",
+    "bns_section": "319",
+    "bns_title": "Cheating",
+    "category": "FIN"
+  },
+  {
+    "ipc_section": "418",
+    "ipc_title": "Cheating with knowledge that wrongful loss may ensue to person whose interest offender is bound to protect",
+    "bns_section": "319",
+    "bns_title": "Cheating",
+    "category": "FIN"
+  },
+  {
+    "ipc_section": "419",
+    "ipc_title": "Punishment for cheating by personation",
+    "bns_section": "319",
+    "bns_title": "Cheating",
+    "category": "FIN"
+  },
+  {
+    "ipc_section": "420",
+    "ipc_title": "Cheating and dishonestly inducing delivery of property",
+    "bns_section": "320",
+    "bns_title": "Cheating and Dishonestly Inducing Delivery of Property",
+    "category": "FIN"
+  },
+  {
+    "ipc_section": "429",
+    "ipc_title": "Mischief by killing or maiming cattle, etc., of any value or any animal of the value of fifty rupees and upwards",
+    "bns_section": "310",
+    "bns_title": "Dacoity",
+    "category": "PRO"
+  },
+  {
+    "ipc_section": "430",
+    "ipc_title": "Mischief by injury to works of irrigation or by wrongfully diverting water",
+    "bns_section": "310",
+    "bns_title": "Dacoity",
+    "category": "PRO"
+  },
+  {
+    "ipc_section": "435",
+    "ipc_title": "Mischief by fire or explosive substance with intent to cause damage to amount of one hundred rupees",
+    "bns_section": "306",
+    "bns_title": "Theft by Servant",
+    "category": "PRO"
+  },
+  {
+    "ipc_section": "436",
+    "ipc_title": "Mischief by fire or explosive substance with intent to destroy house, etc.",
+    "bns_section": "305",
+    "bns_title": "Theft in Dwelling House",
+    "category": "PRO"
+  },
+  {
+    "ipc_section": "442",
+    "ipc_title": "House-trespass",
+    "bns_section": "305",
+    "bns_title": "Theft in Dwelling House",
+    "category": "PRO"
+  },
+  {
+    "ipc_section": "447",
+    "ipc_title": "Punishment for criminal trespass",
+    "bns_section": "310",
+    "bns_title": "Dacoity",
+    "category": "PRO"
+  },
+  {
+    "ipc_section": "449",
+    "ipc_title": "House-trespass in order to commit offence punishable with death",
+    "bns_section": "305",
+    "bns_title": "Theft in Dwelling House",
+    "category": "PRO"
+  },
+  {
+    "ipc_section": "450",
+    "ipc_title": "House-trespass in order to commit offence punishable with imprisonment for life",
+    "bns_section": "305",
+    "bns_title": "Theft in Dwelling House",
+    "category": "PRO"
+  },
+  {
+    "ipc_section": "451",
+    "ipc_title": "House-trespass in order to commit offence punishable with imprisonment",
+    "bns_section": "305",
+    "bns_title": "Theft in Dwelling House",
+    "category": "PRO"
+  },
+  {
+    "ipc_section": "452",
+    "ipc_title": "House-trespass after preparation for hurt, assault or wrongful restraint",
+    "bns_section": "305",
+    "bns_title": "Theft in Dwelling House",
+    "category": "PRO"
+  },
+  {
+    "ipc_section": "454",
+    "ipc_title": "Lurking house-trespass or house-breaking in order to commit offence punishable with imprisonment",
+    "bns_section": "305",
+    "bns_title": "Theft in Dwelling House",
+    "category": "PRO"
+  },
+  {
+    "ipc_section": "456",
+    "ipc_title": "Punishment for lurking house-trespass or house-breaking by night",
+    "bns_section": "310",
+    "bns_title": "Dacoity",
+    "category": "PRO"
+  },
+  {
+    "ipc_section": "457",
+    "ipc_title": "Lurking house-trespass or house-breaking by night in order to commit offence punishable with imprisonment",
+    "bns_section": "310",
+    "bns_title": "Dacoity",
+    "category": "PRO"
+  },
+  {
+    "ipc_section": "458",
+    "ipc_title": "Lurking house-trespass or house-breaking by night after preparation for hurt, assault, or wrongful restraint",
+    "bns_section": "305",
+    "bns_title": "Theft in Dwelling House",
+    "category": "PRO"
+  },
+  {
+    "ipc_section": "463",
+    "ipc_title": "Forgery",
+    "bns_section": "319",
+    "bns_title": "Cheating",
+    "category": "FIN"
+  },
+  {
+    "ipc_section": "464",
+    "ipc_title": "Making a false document",
+    "bns_section": "319",
+    "bns_title": "Cheating",
+    "category": "FIN"
+  },
+  {
+    "ipc_section": "465",
+    "ipc_title": "Punishment for forgery",
+    "bns_section": "319",
+    "bns_title": "Cheating",
+    "category": "FIN"
+  },
+  {
+    "ipc_section": "466",
+    "ipc_title": "Forgery of record of Court or of public register, etc.",
+    "bns_section": "319",
+    "bns_title": "Cheating",
+    "category": "FIN"
+  },
+  {
+    "ipc_section": "467",
+    "ipc_title": "Forgery of valuable security, will, etc.",
+    "bns_section": "320",
+    "bns_title": "Cheating and Dishonestly Inducing Delivery of Property",
+    "category": "FIN"
+  },
+  {
+    "ipc_section": "468",
+    "ipc_title": "Forgery for purpose of cheating",
+    "bns_section": "319",
+    "bns_title": "Cheating",
+    "category": "FIN"
+  },
+  {
+    "ipc_section": "469",
+    "ipc_title": "Forgery for purpose of harming reputation",
+    "bns_section": "319",
+    "bns_title": "Cheating",
+    "category": "FIN"
+  },
+  {
+    "ipc_section": "471",
+    "ipc_title": "Using as genuine a forged document or electronic record",
+    "bns_section": "316",
+    "bns_title": "Dishonest Misappropriation of Property",
+    "category": "FIN"
+  },
+  {
+    "ipc_section": "474",
+    "ipc_title": "Having possession of document described in section 466 or 467, knowing it to be forged and intending to use it as genuine",
+    "bns_section": "320",
+    "bns_title": "Cheating and Dishonestly Inducing Delivery of Property",
+    "category": "FIN"
+  },
+  {
+    "ipc_section": "476",
+    "ipc_title": "Counterfeiting device or mark used for authenticating documents other than those described in section 467",
+    "bns_section": "319",
+    "bns_title": "Cheating",
+    "category": "FIN"
+  },
+  {
+    "ipc_section": "477A",
+    "ipc_title": "Falsification of accounts",
+    "bns_section": "319",
+    "bns_title": "Cheating",
+    "category": "FIN"
+  },
+  {
+    "ipc_section": "503",
+    "ipc_title": "Criminal intimidation",
+    "bns_section": "106",
+    "bns_title": "Abetment of Suicide",
+    "category": "VIO"
+  },
+  {
+    "ipc_section": "506",
+    "ipc_title": "Punishment for criminal intimidation",
+    "bns_section": "106",
+    "bns_title": "Abetment of Suicide",
+    "category": "VIO"
+  },
+  {
+    "ipc_section": "507",
+    "ipc_title": "Criminal intimidation by an anonymous communication",
+    "bns_section": "106",
+    "bns_title": "Abetment of Suicide",
+    "category": "VIO"
+  },
+  {
+    "ipc_section": "509",
+    "ipc_title": "Word, gesture or act intended to insult the modesty of a woman",
+    "bns_section": "74",
+    "bns_title": "Assault on Woman to Outrage Modesty",
+    "category": "WOM"
+  },
+  {
+    "ipc_section": "493",
+    "ipc_title": "Cohabitation caused by a man deceitfully inducing a belief of lawful marriage",
+    "bns_section": "81",
+    "bns_title": "Kidnapping Woman for Marriage",
+    "category": "WOM"
+  },
+  {
+    "ipc_section": "494",
+    "ipc_title": "Marrying again during lifetime of husband or wife",
+    "bns_section": "81",
+    "bns_title": "Kidnapping Woman for Marriage",
+    "category": "WOM"
+  },
+  {
+    "ipc_section": "495",
+    "ipc_title": "Same offence with concealment of former marriage from person with whom subsequent marriage is contracted",
+    "bns_section": "81",
+    "bns_title": "Kidnapping Woman for Marriage",
+    "category": "WOM"
+  },
+  {
+    "ipc_section": "496",
+    "ipc_title": "Marriage ceremony fraudulently gone through without lawful marriage",
+    "bns_section": "320",
+    "bns_title": "Cheating and Dishonestly Inducing Delivery of Property",
+    "category": "FIN"
+  },
+  {
+    "ipc_section": "497",
+    "ipc_title": "Adultery",
+    "bns_section": "74",
+    "bns_title": "Assault on Woman to Outrage Modesty",
+    "category": "WOM"
+  },
+  {
+    "ipc_section": "498",
+    "ipc_title": "Enticing or taking away or detaining with criminal intent a married woman",
+    "bns_section": "74",
+    "bns_title": "Assault on Woman to Outrage Modesty",
+    "category": "WOM"
+  },
+  {
+    "ipc_section": "498A",
+    "ipc_title": "Husband or relative of husband of a woman subjecting her to cruelty",
+    "bns_section": "81",
+    "bns_title": "Kidnapping Woman for Marriage",
+    "category": "WOM"
+  },
+  {
+    "ipc_section": "424",
+    "ipc_title": "Dishonest or fraudulent removal or concealment of property",
+    "bns_section": "306",
+    "bns_title": "Theft by Servant",
+    "category": "PRO"
+  },
+  {
+    "ipc_section": "372",
+    "ipc_title": "Selling minor for purposes of prostitution",
+    "bns_section": "63",
+    "bns_title": "Rape",
+    "category": "SEX"
+  },
+  {
+    "ipc_section": "373",
+    "ipc_title": "Buying minor for purposes of prostitution",
+    "bns_section": "63",
+    "bns_title": "Rape",
+    "category": "SEX"
+  }
+]

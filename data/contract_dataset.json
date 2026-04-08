@@ -1,0 +1,122 @@
+[
+  {
+    "type": "contract",
+    "category": "Land Sale Agreement",
+    "act": "Transfer of Property Act",
+    "section": "54",
+    "title": "Sale of Immovable Property",
+    "description": "A sale is a transfer of ownership in exchange for a price paid or promised. For land above Rs.100, a registered written document is mandatory.",
+    "key_clauses": ["sale consideration", "possession date", "title clearance", "stamp duty", "registration"],
+    "red_flags": ["unclear title", "no registration", "undisclosed encumbrances", "missing possession clause"],
+    "advice": "Always verify title at the Sub-Registrar office. Ensure encumbrance certificate is obtained for last 30 years. Get sale deed registered mandatorily.",
+    "keywords": ["land sale", "property sale", "sale deed", "immovable property", "land purchase", "plot sale"]
+  },
+  {
+    "type": "contract",
+    "category": "Rent / Lease Agreement",
+    "act": "Transfer of Property Act",
+    "section": "105",
+    "title": "Lease of Immovable Property",
+    "description": "A lease is a transfer of the right to enjoy property for a specific time in return for rent. Leases above 11 months must be registered.",
+    "key_clauses": ["monthly rent", "security deposit", "lease duration", "maintenance responsibility", "termination notice"],
+    "red_flags": ["no notice period clause", "no maintenance clause", "unregistered lease above 11 months", "excessive deposit"],
+    "advice": "Leases above 11 months must be registered. Document rent receipts always. Ensure termination notice period is clearly defined.",
+    "keywords": ["rent agreement", "lease", "tenant", "landlord", "rental", "house rent", "flat rent", "shop rent"]
+  },
+  {
+    "type": "contract",
+    "category": "Loan Agreement",
+    "act": "Indian Contract Act",
+    "section": "10",
+    "title": "Contract of Loan / Borrowing",
+    "description": "A loan agreement defines the principal amount, interest rate, repayment schedule, and consequences of default between lender and borrower.",
+    "key_clauses": ["loan amount", "interest rate", "repayment schedule", "collateral/security", "penalty on default"],
+    "red_flags": ["no interest rate mentioned", "no repayment schedule", "no witness/notary", "unclear collateral terms"],
+    "advice": "Always get loan agreements notarized. Ensure interest rate complies with RBI guidelines. Keep copies of all repayment receipts.",
+    "keywords": ["loan", "borrowing", "lending", "interest", "repayment", "debt", "promissory note", "money lending"]
+  },
+  {
+    "type": "contract",
+    "category": "Power of Attorney",
+    "act": "Powers of Attorney Act",
+    "section": "1A",
+    "title": "General / Special Power of Attorney",
+    "description": "A Power of Attorney authorizes one person (agent) to act on behalf of another (principal) for legal, financial, or property matters.",
+    "key_clauses": ["scope of authority", "duration", "revocation clause", "specific powers granted", "notarization"],
+    "red_flags": ["unlimited power without restriction", "no expiry date", "not notarized", "used for property sale without registration"],
+    "advice": "A General POA for immovable property must be registered. Always specify scope clearly. Revoke immediately when no longer needed.",
+    "keywords": ["power of attorney", "POA", "attorney", "agent", "authorize", "representation", "principal"]
+  },
+  {
+    "type": "contract",
+    "category": "Employment Contract",
+    "act": "Indian Contract Act / Industrial Disputes Act",
+    "section": "27",
+    "title": "Contract of Employment",
+    "description": "An employment contract defines the terms of work including salary, role, working hours, leave policy, and termination conditions between employer and employee.",
+    "key_clauses": ["salary/CTC", "job role", "notice period", "probation period", "non-compete clause", "leave policy"],
+    "red_flags": ["no notice period", "unreasonable non-compete", "no salary breakup", "no termination clause"],
+    "advice": "Non-compete clauses are largely unenforceable in India under Section 27. Ensure you receive appointment letter. Keep copies of all salary slips.",
+    "keywords": ["employment", "job", "salary", "employer", "employee", "appointment letter", "work contract", "CTC", "notice period"]
+  },
+  {
+    "type": "contract",
+    "category": "Partnership Deed",
+    "act": "Indian Partnership Act",
+    "section": "4",
+    "title": "Partnership Agreement",
+    "description": "A partnership deed defines profit/loss sharing ratio, roles, capital contribution, and dissolution terms among business partners.",
+    "key_clauses": ["profit sharing ratio", "capital contribution", "roles and responsibilities", "dissolution clause", "dispute resolution"],
+    "red_flags": ["no dissolution clause", "no dispute resolution mechanism", "unequal liability without documentation", "no capital contribution record"],
+    "advice": "Register the partnership firm with the Registrar of Firms. An unregistered firm cannot sue third parties. Define exit terms clearly.",
+    "keywords": ["partnership", "business partner", "profit sharing", "partnership deed", "firm", "joint business"]
+  },
+  {
+    "type": "contract",
+    "category": "Non-Disclosure Agreement",
+    "act": "Indian Contract Act",
+    "section": "73",
+    "title": "Non-Disclosure / Confidentiality Agreement",
+    "description": "An NDA restricts parties from disclosing confidential business information to third parties for a specified period.",
+    "key_clauses": ["definition of confidential information", "duration of confidentiality", "permitted disclosures", "remedies for breach"],
+    "red_flags": ["no definition of confidential info", "perpetual confidentiality clause", "no carve-outs for public info"],
+    "advice": "Ensure confidential information is clearly defined. Perpetual NDAs are hard to enforce. Always include a breach remedy clause.",
+    "keywords": ["NDA", "non-disclosure", "confidentiality", "trade secret", "proprietary information", "confidential agreement"]
+  },
+  {
+    "type": "contract",
+    "category": "Construction Agreement",
+    "act": "RERA / Indian Contract Act",
+    "section": "RERA 2016",
+    "title": "Construction / Builder-Buyer Agreement",
+    "description": "A construction agreement between builder and buyer defines project specifications, payment schedule, possession date, and penalty for delay under RERA.",
+    "key_clauses": ["possession date", "payment schedule", "penalty for delay", "carpet area definition", "RERA registration number"],
+    "red_flags": ["no RERA registration", "no penalty for delay", "super area instead of carpet area", "no quality specification"],
+    "advice": "Verify RERA registration at your state RERA website. Builder must give possession as per agreement or pay interest at SBI MCLR + 2%. Carpet area is your legal right.",
+    "keywords": ["construction", "builder", "flat purchase", "apartment", "RERA", "under construction", "possession", "builder buyer agreement"]
+  },
+  {
+    "type": "contract",
+    "category": "Will / Testament",
+    "act": "Indian Succession Act",
+    "section": "63",
+    "title": "Last Will and Testament",
+    "description": "A will is a legal declaration of how a person wishes to distribute their property after death. It requires two witnesses and can be registered.",
+    "key_clauses": ["beneficiaries", "asset distribution", "executor appointment", "witness signatures", "date of execution"],
+    "red_flags": ["no witnesses", "unregistered will for contested assets", "no executor named", "ambiguous asset description"],
+    "advice": "While registration is optional, a registered will is harder to contest. Appoint a trusted executor. Update will after major life events.",
+    "keywords": ["will", "testament", "inheritance", "property after death", "nominee", "beneficiary", "succession", "estate"]
+  },
+  {
+    "type": "contract",
+    "category": "Memorandum of Understanding",
+    "act": "Indian Contract Act",
+    "section": "10",
+    "title": "MOU / Letter of Intent",
+    "description": "An MOU outlines the preliminary understanding between parties before a formal contract. It may or may not be legally binding depending on its language.",
+    "key_clauses": ["intent of parties", "binding vs non-binding clause", "timeline", "obligations of each party", "governing law"],
+    "red_flags": ["unclear binding nature", "no timeline", "no dispute resolution", "missing party details"],
+    "advice": "Clearly state whether the MOU is binding or non-binding. A poorly drafted MOU can become enforceable. Always follow up with a formal agreement.",
+    "keywords": ["MOU", "memorandum of understanding", "letter of intent", "LOI", "preliminary agreement", "understanding"]
+  }
+]
